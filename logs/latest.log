@@ -1,107 +1,61 @@
-[10:50:23] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:50:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:50:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:50:23] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:50:23] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:50:23] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[10:50:23] [Server thread/INFO]: Loading properties
-[10:50:23] [Server thread/INFO]: Default game type: SURVIVAL
-[10:50:23] [Server thread/INFO]: Generating keypair
-[10:50:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:50:23] [Server thread/INFO]: Using epoll channel type
-[10:50:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10:50:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[10:50:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10:50:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[10:50:23] [Server thread/INFO]: Preparing level "world"
-[10:50:23] [Server thread/INFO]: Reloading ResourceManager: Default
-[10:50:25] [Server thread/INFO]: Loaded 6 recipes
-[10:50:26] [Server thread/INFO]: Loaded 825 advancements
-[10:50:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:50:30] [Server thread/INFO]: Preparing spawn area: 0%
-[10:50:30] [Server thread/INFO]: Preparing spawn area: 0%
-[10:50:30] [Server thread/INFO]: Preparing spawn area: 0%
-[10:50:32] [Server thread/INFO]: Preparing spawn area: 0%
-[10:50:32] [Server thread/INFO]: Preparing spawn area: 0%
-[10:50:32] [Server thread/INFO]: Preparing spawn area: 0%
-[10:50:32] [Server thread/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:57] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:57] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:57] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:57] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:57] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:50:57] [Server thread/INFO]: Preparing spawn area: 42%
-[10:50:58] [Server-Worker-1/INFO]: Preparing spawn area: 95%
-[10:50:58] [Server-Worker-1/INFO]: Preparing spawn area: 95%
-[10:50:59] [Server thread/INFO]: Preparing spawn area: 96%
-[10:50:59] [Server thread/INFO]: Preparing spawn area: 99%
-[10:50:59] [Server thread/INFO]: Time elapsed: 30651 ms
-[10:50:59] [Server thread/INFO]: Done (36.101s)! For help, type "help"
-[10:51:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@3c6effec[id=<null>,name=CoolioBeanz,properties={},legacy=false] (/155.69.183.15:58782) lost connection: Disconnected
-[10:51:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@4578b0ea[id=<null>,name=CoolioBeanz,properties={},legacy=false] (/155.69.183.15:27954) lost connection: Disconnected
-[10:51:05] [Server thread/INFO]: CoolioBeanz[/155.69.183.15:3282] logged in with entity id 67 at (342.2563854409009, 64.0, 39.918991497283315)
-[10:51:05] [Server thread/INFO]: CoolioBeanz joined the game
-[10:52:58] [Server thread/INFO]: CoolioBeanz has made the advancement [Best Friends Forever]
-[10:55:57] [Server thread/WARN]: CoolioBeanz moved wrongly!
-[10:57:19] [Server thread/INFO]: CoolioBeanz has made the advancement [A Seedy Place]
-[10:57:55] [Server thread/INFO]: [CoolioBeanz: The difficulty has been set to Peaceful]
-[11:09:08] [Server thread/INFO]: CoolioBeanz lost connection: Disconnected
-[11:09:08] [Server thread/INFO]: CoolioBeanz left the game
-[11:14:37] [Server thread/INFO]: Stopping the server
-[11:14:37] [Server thread/INFO]: Stopping server
-[11:14:37] [Server thread/INFO]: Saving players
-[11:14:37] [Server thread/INFO]: Saving worlds
-[11:14:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[11:14:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11:14:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[11:14:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:14:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[11:14:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11:14:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11:14:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:14:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:12:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:12:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:12:19] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07:12:19] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:12:19] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[07:12:19] [Server thread/INFO]: Loading properties
+[07:12:19] [Server thread/INFO]: Default game type: SURVIVAL
+[07:12:19] [Server thread/INFO]: Generating keypair
+[07:12:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:12:19] [Server thread/INFO]: Using epoll channel type
+[07:12:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:12:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:12:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:12:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:12:20] [Server thread/INFO]: Preparing level "world"
+[07:12:20] [Server thread/INFO]: Reloading ResourceManager: Default
+[07:12:22] [Server thread/INFO]: Loaded 6 recipes
+[07:12:22] [Server thread/INFO]: Loaded 825 advancements
+[07:12:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:12:50] [Server thread/INFO]: Preparing spawn area: 0%
+[07:12:50] [Server thread/INFO]: Preparing spawn area: 0%
+[07:12:50] [Server thread/INFO]: Preparing spawn area: 0%
+[07:12:51] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[07:12:51] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[07:12:51] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[07:12:52] [Server thread/INFO]: Preparing spawn area: 0%
+[07:12:54] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[07:12:54] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[07:12:54] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[07:12:54] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[07:12:54] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[07:12:55] [Server-Worker-1/INFO]: Preparing spawn area: 95%
+[07:12:55] [Server-Worker-1/INFO]: Preparing spawn area: 95%
+[07:12:56] [Server thread/INFO]: Preparing spawn area: 96%
+[07:12:56] [Server thread/INFO]: Preparing spawn area: 99%
+[07:12:56] [Server thread/INFO]: Time elapsed: 7659 ms
+[07:12:56] [Server thread/INFO]: Done (36.804s)! For help, type "help"
+[07:12:57] [Server thread/INFO]: CoolioBeanz[/155.69.183.15:28530] logged in with entity id 67 at (328.0925794622447, 70.0, 55.65216386600396)
+[07:12:57] [Server thread/INFO]: CoolioBeanz joined the game
+[07:14:06] [Server thread/INFO]: [CoolioBeanz: The difficulty has been set to Peaceful]
+[07:53:21] [Server thread/INFO]: CoolioBeanz lost connection: Disconnected
+[07:53:21] [Server thread/INFO]: CoolioBeanz left the game
+[07:55:19] [Server thread/INFO]: CoolioBeanz[/155.69.183.15:21878] logged in with entity id 2988 at (333.1093819781136, 70.0, 66.6388895751793)
+[07:55:19] [Server thread/INFO]: CoolioBeanz joined the game
+[08:37:56] [Server thread/INFO]: Villager axw['Villager'/71, l='world', x=345.31, y=57.00, z=49.54] died, message: 'Villager hit the ground too hard'
+[08:40:10] [Server thread/INFO]: CoolioBeanz has made the advancement [Diamonds!]
+[09:14:44] [Server thread/INFO]: CoolioBeanz lost connection: Disconnected
+[09:14:44] [Server thread/INFO]: CoolioBeanz left the game
+[09:14:54] [Server thread/INFO]: Stopping the server
+[09:14:54] [Server thread/INFO]: Stopping server
+[09:14:54] [Server thread/INFO]: Saving players
+[09:14:54] [Server thread/INFO]: Saving worlds
+[09:14:54] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[09:14:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:14:54] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[09:14:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:14:54] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[09:14:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:14:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:14:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:14:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
