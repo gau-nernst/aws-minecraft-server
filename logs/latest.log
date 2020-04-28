@@ -1,61 +1,68 @@
-[07:12:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[07:12:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[07:12:19] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[07:12:19] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[07:12:19] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[07:12:19] [Server thread/INFO]: Loading properties
-[07:12:19] [Server thread/INFO]: Default game type: SURVIVAL
-[07:12:19] [Server thread/INFO]: Generating keypair
-[07:12:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[07:12:19] [Server thread/INFO]: Using epoll channel type
-[07:12:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[07:12:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[07:12:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[07:12:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[07:12:20] [Server thread/INFO]: Preparing level "world"
-[07:12:20] [Server thread/INFO]: Reloading ResourceManager: Default
-[07:12:22] [Server thread/INFO]: Loaded 6 recipes
-[07:12:22] [Server thread/INFO]: Loaded 825 advancements
-[07:12:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[07:12:50] [Server thread/INFO]: Preparing spawn area: 0%
-[07:12:50] [Server thread/INFO]: Preparing spawn area: 0%
-[07:12:50] [Server thread/INFO]: Preparing spawn area: 0%
-[07:12:51] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[07:12:51] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[07:12:51] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[07:12:52] [Server thread/INFO]: Preparing spawn area: 0%
-[07:12:54] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[07:12:54] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[07:12:54] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[07:12:54] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[07:12:54] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[07:12:55] [Server-Worker-1/INFO]: Preparing spawn area: 95%
-[07:12:55] [Server-Worker-1/INFO]: Preparing spawn area: 95%
-[07:12:56] [Server thread/INFO]: Preparing spawn area: 96%
-[07:12:56] [Server thread/INFO]: Preparing spawn area: 99%
-[07:12:56] [Server thread/INFO]: Time elapsed: 7659 ms
-[07:12:56] [Server thread/INFO]: Done (36.804s)! For help, type "help"
-[07:12:57] [Server thread/INFO]: CoolioBeanz[/155.69.183.15:28530] logged in with entity id 67 at (328.0925794622447, 70.0, 55.65216386600396)
-[07:12:57] [Server thread/INFO]: CoolioBeanz joined the game
-[07:14:06] [Server thread/INFO]: [CoolioBeanz: The difficulty has been set to Peaceful]
-[07:53:21] [Server thread/INFO]: CoolioBeanz lost connection: Disconnected
-[07:53:21] [Server thread/INFO]: CoolioBeanz left the game
-[07:55:19] [Server thread/INFO]: CoolioBeanz[/155.69.183.15:21878] logged in with entity id 2988 at (333.1093819781136, 70.0, 66.6388895751793)
-[07:55:19] [Server thread/INFO]: CoolioBeanz joined the game
-[08:37:56] [Server thread/INFO]: Villager axw['Villager'/71, l='world', x=345.31, y=57.00, z=49.54] died, message: 'Villager hit the ground too hard'
-[08:40:10] [Server thread/INFO]: CoolioBeanz has made the advancement [Diamonds!]
-[09:14:44] [Server thread/INFO]: CoolioBeanz lost connection: Disconnected
-[09:14:44] [Server thread/INFO]: CoolioBeanz left the game
-[09:14:54] [Server thread/INFO]: Stopping the server
-[09:14:54] [Server thread/INFO]: Stopping server
-[09:14:54] [Server thread/INFO]: Saving players
-[09:14:54] [Server thread/INFO]: Saving worlds
-[09:14:54] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[09:14:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09:14:54] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[09:14:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:14:54] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[09:14:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09:14:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09:14:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:14:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:24:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:24:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:24:56] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:24:56] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:24:58] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[19:24:58] [Server thread/INFO]: Loading properties
+[19:24:58] [Server thread/INFO]: Default game type: SURVIVAL
+[19:24:58] [Server thread/INFO]: Generating keypair
+[19:24:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:24:58] [Server thread/INFO]: Using default channel type
+[19:25:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:25:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:25:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:25:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:25:05] [Server thread/INFO]: Preparing level "world"
+[19:25:05] [Server thread/INFO]: Reloading ResourceManager: Default
+[19:25:05] [Server thread/INFO]: Loaded 6 recipes
+[19:25:05] [Server thread/INFO]: Loaded 825 advancements
+[19:25:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:25:07] [Server thread/INFO]: Preparing spawn area: 0%
+[19:25:07] [Server thread/INFO]: Preparing spawn area: 0%
+[19:25:07] [Server thread/INFO]: Preparing spawn area: 0%
+[19:25:07] [Server thread/INFO]: Preparing spawn area: 0%
+[19:25:08] [Server thread/INFO]: Preparing spawn area: 83%
+[19:25:11] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[19:25:11] [Server-Worker-5/INFO]: Preparing spawn area: 83%
+[19:25:11] [Server-Worker-5/INFO]: Preparing spawn area: 83%
+[19:25:11] [Server-Worker-5/INFO]: Preparing spawn area: 83%
+[19:25:11] [Server-Worker-5/INFO]: Preparing spawn area: 83%
+[19:25:11] [Server-Worker-6/INFO]: Preparing spawn area: 83%
+[19:25:11] [Server-Worker-6/INFO]: Preparing spawn area: 95%
+[19:25:12] [Server-Worker-7/INFO]: Preparing spawn area: 95%
+[19:25:12] [Server-Worker-3/INFO]: Preparing spawn area: 98%
+[19:25:12] [Server thread/INFO]: Time elapsed: 6667 ms
+[19:25:12] [Server thread/INFO]: Done (7.771s)! For help, type "help"
+[19:26:11] [Server thread/INFO]: CoolioBeanz[/192.168.1.4:51716] logged in with entity id 67 at (334.8572194217369, 65.0, 75.49848309948854)
+[19:26:11] [Server thread/INFO]: CoolioBeanz joined the game
+[19:28:00] [Server thread/INFO]: gau.nernst[/127.0.0.1:64773] logged in with entity id 414 at (331.61813565547766, 70.0, 64.22798206904329)
+[19:28:00] [Server thread/INFO]: gau.nernst joined the game
+[19:37:52] [Server thread/INFO]: CoolioBeanz has made the advancement [Ice Bucket Challenge]
+[19:52:59] [Server thread/WARN]: gau.nernst moved wrongly!
+[20:03:46] [Server thread/INFO]: CoolioBeanz has made the advancement [Enchanter]
+[20:04:27] [Server thread/INFO]: gau.nernst has made the advancement [Best Friends Forever]
+[20:14:19] [Server thread/INFO]: CoolioBeanz has made the advancement [We Need to Go Deeper]
+[20:14:20] [Server thread/INFO]: gau.nernst has made the advancement [We Need to Go Deeper]
+[20:17:47] [Server thread/INFO]: [gau.nernst: The difficulty has been set to Easy]
+[20:18:07] [Server thread/INFO]: [gau.nernst: The difficulty has been set to Peaceful]
+[20:24:17] [Server thread/INFO]: CoolioBeanz lost connection: Disconnected
+[20:24:17] [Server thread/INFO]: CoolioBeanz left the game
+[20:35:44] [Server thread/INFO]: gau.nernst lost connection: Disconnected
+[20:35:44] [Server thread/INFO]: gau.nernst left the game
+[20:48:43] [Server thread/INFO]: Unknown command
+[20:48:43] [Server thread/INFO]: /exit<--[HERE]
+[20:48:46] [Server thread/INFO]: Unknown command
+[20:48:46] [Server thread/INFO]: /quite<--[HERE]
+[20:48:47] [Server thread/INFO]: Stopping the server
+[20:48:47] [Server thread/INFO]: Stopping server
+[20:48:47] [Server thread/INFO]: Saving players
+[20:48:47] [Server thread/INFO]: Saving worlds
+[20:48:47] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[20:48:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:48:47] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[20:48:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:48:47] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[20:48:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:48:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:48:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:48:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
